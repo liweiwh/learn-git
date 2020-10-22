@@ -2,6 +2,9 @@
 hadlshflhds
 =======
 
+lubenwei: () => {
+  console.log('卢本伟牛逼');
+}
 const woshi=()=>{
   console.log('大家好，我是冲突')
   console.log('晚安玛咔吧卡');
@@ -34,9 +37,7 @@ const psh = () => {
   console.log(hhsh);
 }
 export default psh
-lubenwei: () => {
-  console.log('卢本伟牛逼');
-}
+
 const hucheng = () => {
   console.log('huchengzhennuli');
   console.log("大家好，我是宋俊华，长沙分华子");
@@ -56,9 +57,9 @@ const hucheng = () => {
   console.log('每天都在摸鱼');
 >>>>>>> 7818982cdb8086b86c85632d85fd0684e93603a5
 
-  console.log('汪熙');
-  console.log('今天也要加油鸭');
-  console.log('学废了');
+console.log('汪熙');
+console.log('今天也要加油鸭');
+console.log('学废了');
 }
 
 const a = (b) => {
