@@ -123,7 +123,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+<<<<<<< HEAD
 >>>>>>> d6ade0cbf7bb1cec7880d9e8819fbd6230cb2756
+=======
+>>>>>>> 9e2571f638095e44e4be21391b706ae6f7a0a734
+>>>>>>> 7818982cdb8086b86c85632d85fd0684e93603a5
 
 ### Node ###
 # Logs
@@ -279,11 +283,23 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7818982cdb8086b86c85632d85fd0684e93603a5
 =======
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,jetbrains+all,node
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
 *.txt
+<<<<<<< HEAD
 *.log
 >>>>>>> d6ade0cbf7bb1cec7880d9e8819fbd6230cb2756
+=======
+<<<<<<< HEAD
+>>>>>>> 9e2571f638095e44e4be21391b706ae6f7a0a734
+=======
+*.log
+>>>>>>> fd01f26e1f4ba674bec69f37a0433c4d05d6d1ac
+>>>>>>> 7818982cdb8086b86c85632d85fd0684e93603a5
