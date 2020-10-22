@@ -6,6 +6,7 @@ const psh = () => {
 export default psh
 
 const hucheng = () => {
+  console.log('huchengzhennuli');
   console.log("大家好，我是宋俊华，长沙分华子");
   console.log('hucheng');
   console.log('晚上吃啥呢?');
@@ -23,6 +24,10 @@ const a = (b) => {
   }
 
   export default hucheng
+const woshi = () => {
+  console.log('大家好，我是冲突ya')
+}
+export default woshi
 
   const woshi = () => {
     console.log(ooo);
