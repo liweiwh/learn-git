@@ -1,1 +1,4 @@
-const a='11'
+const psh = () => {
+  console.log(psh);
+}
+export default psh
