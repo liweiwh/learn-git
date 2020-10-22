@@ -34,11 +34,14 @@ export default psh
 
 const hucheng = () => {
 <<<<<<< HEAD
+<<<<<<< HEAD
   console.log('汪熙')
   console.log('今天也要加油鸭')
 =======
   console.log('huchengzhennuli');
   console.log("大家好，我是宋俊华，长沙分华子");
+=======
+>>>>>>> b0b8a053ee56f2bd92b400224b826f3a533cbaae
   console.log('hucheng');
   console.log('晚上吃啥呢?');
   console.log(1111111);
@@ -48,10 +51,14 @@ const hucheng = () => {
   console.log('汪熙');
   console.log('今天也要加油鸭');
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 8468be43ed943930af68dbad1a53bc17297508e1
 =======
   console.log('学废了');
 >>>>>>> 7818982cdb8086b86c85632d85fd0684e93603a5
+=======
+  console.log('吃吃吃吃吃吃吃');
+>>>>>>> b0b8a053ee56f2bd92b400224b826f3a533cbaae
 }
 
 const a = (b) => {
