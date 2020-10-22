@@ -1,5 +1,14 @@
+
+const psh = () => {
+  console.log(psh);
+  console.log(hhsh);
+}
+export default psh
+
 const hucheng = () => {
   console.log('huchengzhennuli');
+  console.log("大家好，我是宋俊华，长沙分华子");
+  console.log('hucheng');
   console.log('晚上吃啥呢?');
   console.log(1111111);
   console.log('asdasf');
@@ -35,3 +44,4 @@ const songjunhua = () => {
   const aa = "不要再删我的代码"
   const ZBM = '大家好我是张柏明'
 }
+
