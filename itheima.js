@@ -1,5 +1,7 @@
 const hucheng = () => {
   console.log('hucheng');
+  console.log(1111111);
+  console.log('asdasf');
 }
 
 export default hucheng
