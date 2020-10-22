@@ -1,5 +1,6 @@
 const hucheng = () => {
   console.log('汪熙');
+  console.log('今天也要加油鸭');
 }
 
 export default hucheng
