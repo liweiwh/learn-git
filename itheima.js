@@ -1,12 +1,10 @@
 const hucheng = () => {
-<<<<<<< HEAD
+  console.log("大家好，我是宋俊华，长沙分华子");
   console.log('hucheng');
   console.log(1111111);
   console.log('asdasf');
 
-=======
   console.log('汪熙');
->>>>>>> 7cfffe28e11de34b392057106cca149977c3c924
   console.log('今天也要加油鸭');
 }
 
