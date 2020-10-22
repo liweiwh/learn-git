@@ -286,4 +286,8 @@ $RECYCLE.BIN/
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
 *.txt
+<<<<<<< HEAD
 >>>>>>> 9e2571f638095e44e4be21391b706ae6f7a0a734
+=======
+*.log
+>>>>>>> fd01f26e1f4ba674bec69f37a0433c4d05d6d1ac
