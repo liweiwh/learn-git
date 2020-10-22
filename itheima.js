@@ -1,11 +1,11 @@
 const hucheng = () => {
-  console.log('hucheng');
+  console.log('huchengzhennuli');
 }
 
 export default hucheng
 
 const woshi = () => {
-  console.log('大家好，我是冲突')
+  console.log('大家好，我是冲突ya')
 }
 export default woshi
 
