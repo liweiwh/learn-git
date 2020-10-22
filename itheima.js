@@ -1,6 +1,7 @@
 
 const psh = () => {
   console.log(psh);
+  console.log(hhsh);
 }
 export default psh
 
