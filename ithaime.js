@@ -1,7 +1,5 @@
 const woshi = () => {
-  console.log('大家好，我是冲突')
-  console.log('晚安玛咔吧卡')
-  console.log('晚安小朋友们')
+console.log('好好学，找工作');
 }
 export default woshi
 
