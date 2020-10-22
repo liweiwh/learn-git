@@ -1,5 +1,5 @@
 const hucheng = () => {
-  console.log('hucheng');
+  console.log('汪熙');
 }
 
 export default hucheng
