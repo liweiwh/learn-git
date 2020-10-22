@@ -1,3 +1,4 @@
-const a='11'
-let s=5
-const i=10
+const psh = () => {
+  console.log(psh);
+}
+export default psh
