@@ -4,7 +4,9 @@ const psh = () => {
   console.log(hhsh);
 }
 export default psh
-
+lubenwei: () => {
+  console.log('卢本伟牛逼');
+}
 const hucheng = () => {
   console.log('huchengzhennuli');
   console.log("大家好，我是宋俊华，长沙分华子");
@@ -25,10 +27,10 @@ const a = (b) => {
   }
 
   export default hucheng
-const woshi = () => {
-  console.log('大家好，我是冲突ya')
-}
-export default woshi
+  const woshi = () => {
+    console.log('大家好，我是冲突ya')
+  }
+  export default woshi
 
   const woshi = () => {
     console.log(ooo);
@@ -57,7 +59,7 @@ export default woshi
     const ZBM = '大家好我是张柏明'
   }
 }
-  const aa = "不要再删我的代码"
-  const ZBM = '大家好我是张柏明'
+const aa = "不要再删我的代码"
+const ZBM = '大家好我是张柏明'
 
 
