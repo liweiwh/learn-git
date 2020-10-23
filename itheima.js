@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 const zqq = () => {
   console.log('zqq')
@@ -152,3 +153,6 @@ const hucheng = () => {
     }
 
 
+=======
+console.log('奥利给');
+>>>>>>> 460120005d83384fd14afb712a9893ee22b0aada
